@@ -1,3 +1,46 @@
 body {
+  background-color: white;
+}
+
+.container {
   background-color: black;
+  width: 400px;
+  height: 600px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.btn {
+  font-size: 40px;
+  text-align: center;
+}
+
+.boxg {
+  color: black;
+  background-color: #d8d9db;
+}
+
+.boxo {
+  color: white;
+  background-color: rgba(255, 166, 0, 0.778);
+}
+
+.simb {
+  width: 100px;
+}
+
+.clear {
+  width: 200px;
+}
+
+.zero {
+  width: 300px;
+}
+
+.total {
+  color: white;
+  background-color: black;
+  font-size: 40px;
+  width: 400px;
+  text-align: end;
 }
